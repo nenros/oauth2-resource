@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: changes/01-create-train.yaml
+      relativeToChangelogFile: true
